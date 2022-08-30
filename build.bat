@@ -1,0 +1,1 @@
+g++ -o dist/tictoctoe.exe src/*.cc
